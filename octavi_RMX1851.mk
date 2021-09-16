@@ -14,7 +14,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
 OCTAVI_BUILD_TYPE=Official
-OCTAVI_DEVICE_MAINTAINER=TheTablaster
+OCTAVI_DEVICE_MAINTAINER=RealmeDiary
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_DEVICE := RMX1851
